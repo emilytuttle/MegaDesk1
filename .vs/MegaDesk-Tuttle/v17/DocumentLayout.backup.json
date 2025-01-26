@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA13BC-1C88-4C60-9C42-4939CCF587EB}|MegaDesk-Tuttle\\MegaDesk-Tuttle.csproj|c:\\users\\emily\\source\\repos\\megadesk-tuttle\\megadesk-tuttle\\newquoteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA13BC-1C88-4C60-9C42-4939CCF587EB}|MegaDesk-Tuttle\\MegaDesk-Tuttle.csproj|solutionrelative:megadesk-tuttle\\newquoteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA13BC-1C88-4C60-9C42-4939CCF587EB}|MegaDesk-Tuttle\\MegaDesk-Tuttle.csproj|C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\megadesk-tuttle\\searchquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9FA13BC-1C88-4C60-9C42-4939CCF587EB}|MegaDesk-Tuttle\\MegaDesk-Tuttle.csproj|solutionrelative:megadesk-tuttle\\searchquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA13BC-1C88-4C60-9C42-4939CCF587EB}|MegaDesk-Tuttle\\MegaDesk-Tuttle.csproj|C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\megadesk-tuttle\\searchquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA13BC-1C88-4C60-9C42-4939CCF587EB}|MegaDesk-Tuttle\\MegaDesk-Tuttle.csproj|solutionrelative:megadesk-tuttle\\searchquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA13BC-1C88-4C60-9C42-4939CCF587EB}|MegaDesk-Tuttle\\MegaDesk-Tuttle.csproj|C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\megadesk-tuttle\\viewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA13BC-1C88-4C60-9C42-4939CCF587EB}|MegaDesk-Tuttle\\MegaDesk-Tuttle.csproj|solutionrelative:megadesk-tuttle\\viewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA13BC-1C88-4C60-9C42-4939CCF587EB}|MegaDesk-Tuttle\\MegaDesk-Tuttle.csproj|C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\megadesk-tuttle\\deskquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA13BC-1C88-4C60-9C42-4939CCF587EB}|MegaDesk-Tuttle\\MegaDesk-Tuttle.csproj|solutionrelative:megadesk-tuttle\\deskquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA13BC-1C88-4C60-9C42-4939CCF587EB}|MegaDesk-Tuttle\\MegaDesk-Tuttle.csproj|C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\megadesk-tuttle\\viewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9FA13BC-1C88-4C60-9C42-4939CCF587EB}|MegaDesk-Tuttle\\MegaDesk-Tuttle.csproj|solutionrelative:megadesk-tuttle\\viewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA13BC-1C88-4C60-9C42-4939CCF587EB}|MegaDesk-Tuttle\\MegaDesk-Tuttle.csproj|C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\megadesk-tuttle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9FA13BC-1C88-4C60-9C42-4939CCF587EB}|MegaDesk-Tuttle\\MegaDesk-Tuttle.csproj|solutionrelative:megadesk-tuttle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA13BC-1C88-4C60-9C42-4939CCF587EB}|MegaDesk-Tuttle\\MegaDesk-Tuttle.csproj|C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\megadesk-tuttle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA13BC-1C88-4C60-9C42-4939CCF587EB}|MegaDesk-Tuttle\\MegaDesk-Tuttle.csproj|solutionrelative:megadesk-tuttle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA13BC-1C88-4C60-9C42-4939CCF587EB}|MegaDesk-Tuttle\\MegaDesk-Tuttle.csproj|C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\megadesk-tuttle\\newquoteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9FA13BC-1C88-4C60-9C42-4939CCF587EB}|MegaDesk-Tuttle\\MegaDesk-Tuttle.csproj|solutionrelative:megadesk-tuttle\\newquoteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "searchQuotes.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\MegaDesk-Tuttle\\searchQuotes.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Tuttle\\searchQuotes.cs",
+              "ToolTip": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\MegaDesk-Tuttle\\searchQuotes.cs",
+              "RelativeToolTip": "MegaDesk-Tuttle\\searchQuotes.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAUwIIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T01:50:00.02Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "viewForm.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\MegaDesk-Tuttle\\viewForm.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Tuttle\\viewForm.cs",
+              "ToolTip": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\MegaDesk-Tuttle\\viewForm.cs",
+              "RelativeToolTip": "MegaDesk-Tuttle\\viewForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T01:49:46.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeskQuote.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\MegaDesk-Tuttle\\DeskQuote.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Tuttle\\DeskQuote.cs",
+              "ToolTip": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\MegaDesk-Tuttle\\DeskQuote.cs",
+              "RelativeToolTip": "MegaDesk-Tuttle\\DeskQuote.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwCMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T03:40:42.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "searchQuotes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\MegaDesk-Tuttle\\searchQuotes.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Tuttle\\searchQuotes.cs",
+              "ToolTip": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\MegaDesk-Tuttle\\searchQuotes.cs [Design]",
+              "RelativeToolTip": "MegaDesk-Tuttle\\searchQuotes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T01:44:54.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewQuoteForm.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\MegaDesk-Tuttle\\NewQuoteForm.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Tuttle\\NewQuoteForm.cs",
+              "ToolTip": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\MegaDesk-Tuttle\\NewQuoteForm.cs",
+              "RelativeToolTip": "MegaDesk-Tuttle\\NewQuoteForm.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAuwH8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T22:18:41.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "viewForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\MegaDesk-Tuttle\\viewForm.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Tuttle\\viewForm.cs",
+              "ToolTip": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\MegaDesk-Tuttle\\viewForm.cs [Design]",
+              "RelativeToolTip": "MegaDesk-Tuttle\\viewForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T01:38:27.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\MegaDesk-Tuttle\\Form1.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Tuttle\\Form1.cs",
+              "ToolTip": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\MegaDesk-Tuttle\\Form1.cs [Design]",
+              "RelativeToolTip": "MegaDesk-Tuttle\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T21:49:15.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewQuoteForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\MegaDesk-Tuttle\\NewQuoteForm.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Tuttle\\NewQuoteForm.cs",
+              "ToolTip": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\MegaDesk-Tuttle\\NewQuoteForm.cs [Design]",
+              "RelativeToolTip": "MegaDesk-Tuttle\\NewQuoteForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T22:16:49.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\MegaDesk-Tuttle\\Form1.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Tuttle\\Form1.cs",
+              "ToolTip": "C:\\Users\\emily\\source\\repos\\MegaDesk-Tuttle\\MegaDesk-Tuttle\\Form1.cs",
+              "RelativeToolTip": "MegaDesk-Tuttle\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvyYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T22:08:43.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

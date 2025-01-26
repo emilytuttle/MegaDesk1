@@ -1,0 +1,13 @@
+C:\Users\emily\source\repos\MegaDesk-Tuttle\MegaDesk-Tuttle\bin\Debug\MegaDesk-Tuttle.exe.config
+C:\Users\emily\source\repos\MegaDesk-Tuttle\MegaDesk-Tuttle\bin\Debug\MegaDesk-Tuttle.exe
+C:\Users\emily\source\repos\MegaDesk-Tuttle\MegaDesk-Tuttle\bin\Debug\MegaDesk-Tuttle.pdb
+C:\Users\emily\source\repos\MegaDesk-Tuttle\MegaDesk-Tuttle\obj\Debug\MegaDesk-Tuttle.csproj.AssemblyReference.cache
+C:\Users\emily\source\repos\MegaDesk-Tuttle\MegaDesk-Tuttle\obj\Debug\MegaDesk_Tuttle.Form1.resources
+C:\Users\emily\source\repos\MegaDesk-Tuttle\MegaDesk-Tuttle\obj\Debug\MegaDesk_Tuttle.Properties.Resources.resources
+C:\Users\emily\source\repos\MegaDesk-Tuttle\MegaDesk-Tuttle\obj\Debug\MegaDesk-Tuttle.csproj.GenerateResource.cache
+C:\Users\emily\source\repos\MegaDesk-Tuttle\MegaDesk-Tuttle\obj\Debug\MegaDesk-Tuttle.csproj.CoreCompileInputs.cache
+C:\Users\emily\source\repos\MegaDesk-Tuttle\MegaDesk-Tuttle\obj\Debug\MegaDesk-Tuttle.exe
+C:\Users\emily\source\repos\MegaDesk-Tuttle\MegaDesk-Tuttle\obj\Debug\MegaDesk-Tuttle.pdb
+C:\Users\emily\source\repos\MegaDesk-Tuttle\MegaDesk-Tuttle\obj\Debug\MegaDesk_Tuttle.NewQuoteForm.resources
+C:\Users\emily\source\repos\MegaDesk-Tuttle\MegaDesk-Tuttle\obj\Debug\MegaDesk_Tuttle.viewForm.resources
+C:\Users\emily\source\repos\MegaDesk-Tuttle\MegaDesk-Tuttle\obj\Debug\MegaDesk_Tuttle.searchQuotes.resources
