@@ -1,0 +1,20 @@
+[
+  {
+    "_name": "Em",
+    "_deskWidth": 25.0,
+    "_deskDepth": 25.0,
+    "_numDrawers": 5.0,
+    "_surfaceMaterial": "oak",
+    "_rushDays": 3.0,
+    "_finalPrice": 1335.0
+  },
+  {
+    "_name": "Test2",
+    "_deskWidth": 35.0,
+    "_deskDepth": 21.0,
+    "_numDrawers": 1.0,
+    "_surfaceMaterial": "laminate",
+    "_rushDays": 5.0,
+    "_finalPrice": 1125.0
+  }
+]

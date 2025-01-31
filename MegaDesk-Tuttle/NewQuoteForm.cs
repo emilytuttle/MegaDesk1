@@ -3,10 +3,15 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using Newtonsoft.Json.Serialization;
+
 
 namespace MegaDesk_Tuttle
 {
@@ -50,6 +55,7 @@ namespace MegaDesk_Tuttle
 
         public List<DeskQuote> allDeskQuotes = new List<DeskQuote> { };
 
+        public object JsonSerializer { get; private set; }
 
         public void button1_Click(object sender, EventArgs e)
         {
@@ -120,13 +126,39 @@ namespace MegaDesk_Tuttle
             //  pass the list of quotes to the viewForm
             viewForm view = new viewForm();
             view.Quotes = allDeskQuotes;  // Set the list of quotes
-            view.Show();  // Show the viewForm
+            //view.Show(); 
 
             //  pass the list of quotes to the viewForm
             searchQuotes search = new searchQuotes();
             search.Quotes = allDeskQuotes;
-            search.Show();
+            //search.Show();
 
+
+            
+            
+            string path = @"C:\Users\emily\source\repos\TeamMegaDesk\MegaDesk-Tuttle\quotes.json";
+            
+            var initialJson = File.ReadAllText(path);
+            var array = JArray.Parse(initialJson);
+
+    
+            
+            JObject jsonObject = JObject.FromObject(quote);
+
+
+            array.Add(jsonObject);
+            var jsonToOutput = JsonConvert.SerializeObject(array, Formatting.Indented);
+
+           
+
+            using (StreamWriter output = new StreamWriter(path))
+            {
+
+                output.WriteLine(jsonToOutput);
+                output.Close();
+            }
+
+            
 
         }
 
